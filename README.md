@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SergeyPodgorny
-- 👀 I’m programming on Java for 3 years. I'm interested in Java backend developing
+- 👀 I’m programming on Java for since 2019. I'm interested in Java backend developing
 - 🌱 I’m currently developing [Games store](https://github.com/Friendly-neighborhood-development/Fnd_games_store) application in collaboration with front-end developer [Andrew-Sem](https://github.com/Andrew-Sem).
 - :sparkles: Also I'm an author and a copyright holder of a program: [The real time nuclear reactor active core temperature field during transient operation analyze program](https://www1.fips.ru/fips_servl/fips_servlet?DB=EVM&DocNumber=2022616986&TypeFile=html), which is is basically my startup project
 - 📫 You can reach me via email serkonpod@gmail.com or Linkedin profile: linkedin.com/in/сергей-подгорный-014a57223
